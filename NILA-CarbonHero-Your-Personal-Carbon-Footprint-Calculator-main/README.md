@@ -8,7 +8,7 @@ NILA CarbonHero is a module designed to assess and visualize individual carbon f
 ### 📹  Demo Video
 
 ## Carbon Foot Print Calculator
-https://github.com/adithya-vedhamani/NILA-CarbonHero---Your-Personal-Carbon-Footprint-Calculator/assets/73640313/607f8a36-cf29-425b-8a67-11f08690b6c7
+
 
 ### 📊 User Input
 
