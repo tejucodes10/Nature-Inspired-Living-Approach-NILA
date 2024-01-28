@@ -2,6 +2,17 @@
 
 Welcome to the Sustainable Town Planning Simulator! This application, developed with Three.js, Vite, and React, aims to simulate town planning scenarios with a strong emphasis on achieving sustainability goals. The objective is to create a 3D cityscape where users can dynamically build buildings, industries, roads, and houses, considering environmental impact and sustainability.
 
+## Getting Started 🚀
+
+To run the simulator, follow these steps:
+
+1. Install Node.js from [Node.js Official Website](https://nodejs.org/).
+2. Clone this repository and navigate to the root directory.
+3. Run the following command:
+
+   ```bash
+   npm run dev
+   ```
 ## Simulator Features 🌱
 
 - **3D City Rendering:** Utilizing Three.js for a visually immersive and sustainable experience.
