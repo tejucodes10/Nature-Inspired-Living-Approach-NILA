@@ -5,7 +5,14 @@ Designed to assist drivers in planning efficient routes and finding optimal refu
 ## 📹 Demo
 
 
-https://github.com/adithya-vedhamani/Fuel-Energy-Optimized-Route-Planner-/assets/73640313/55306fef-91e7-49b8-aa8a-d1bf174ac63c
+
+https://github.com/tejucodes10/Team-FinSAT-Pragyan-24-Hackathon-PS-3/assets/119094222/f8a696a8-c279-4418-a430-82e7aad96b95
+
+
+
+
+
+
 
 
 ## Features 🌟
