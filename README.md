@@ -9,6 +9,7 @@ NILA: Nature Inspired Living Approach - Where Sustainability Meets Everyday Life
 The project redefines sustainability for everyone, ensuring our user interfaces are friendly and easy to use. We've made complex issues simple, aligning with UN Sustainable Development Goals. From carbon footprints to urban planning, NILA is your guide to a greener lifestyle, designed to be effortlessly impactful for all.
 
 ### 📹  Demo Video - 
+### 🌻Ideation State Presentation : https://drive.google.com/file/d/1LGQwT4VxPuSAMrMoBirjR7pRWQRMW_Ie/view?usp=sharing
 
 ## Our solution Modules 
 ### You can find each module as folders in this repository. To know in detail about each of the modules, please refer to the ReadMe present inside each of the module folders. You can find screenshots and videos of the working prototypes as well in each of the module folder README(s). 
