@@ -4,7 +4,8 @@ As part of our product NILA, focusing on enhanced public awareness and engagemen
 
 ## 📹 Demo - https://drive.google.com/file/d/1gXgfOz9VN2KF3xOLhM4bD282lwKwevFO/view?usp=sharing
 
-![image](https://github.com/tejucodes10/Team-FinSAT-Pragyan-24-Hackathon-PS-3/assets/119094222/af536661-0fbf-4aee-a976-2e10f98f2463)
+![image](https://github.com/tejucodes10/Team-FinSAT-Pragyan-24-Hackathon-PS-3/assets/119094222/d4f61e4d-02bc-4a0e-8764-400ba8d21e8b)
+
 
 ### Multi-lingual options
 
