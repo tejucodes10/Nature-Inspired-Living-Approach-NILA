@@ -16,13 +16,13 @@ The project redefines sustainability for everyone, ensuring our user interfaces 
 
 ### You can find each module as folders in this repository. To know in detail about each of the modules, please refer to the ReadMe present inside each of the module folders. You can find screenshots and videos of the working prototypes as well in each of the module folder README(s). 
 
-## 1. AQI Forecasting and Preemptive Warning: 
+## 1. ⛅AQI Forecasting and Preemptive Warning: 
 Our Time Series Forecasting module, employing LSTM technology, forecasts heatwaves and AQI in specified locations. With meticulous data preprocessing, seasonal decomposition, and rigorous training for 500 epochs, we achieved an impressive 95% accuracy. 
 
-## 2. Sustainable Urban Planning Simulator : 
+## 2. 🏗️Sustainable Urban Planning Simulator : 
 Our module simulates construction of the urban landscape and estimates real-time emissions to construct sustainable urban landscapes. Witness the environmental repercussions of each building added, with AQI metrics and safety values displayed. The simulator guides urban planning decisions with actionable insights, making it an indispensable tool for creating eco-friendly cities.
 
-## 3. :Pathway - RAG - LLM Route Planner Kiosk ChatBot: 
+## 3. Pathway - RAG - LLM Route Planner Kiosk ChatBot: 
 This AI-powered RAG - LLM Route Planner Kiosk ChatBot redefines route planning, offering intuitive guidance and suggestions using Pathway. Navigate with ease, knowing you have a virtual assistant dedicated to optimising your journey with a focus on sustainability.
 
 ## 4. Fuel Energy Optimised Route Planner: 
