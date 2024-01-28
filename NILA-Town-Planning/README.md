@@ -2,6 +2,8 @@
 
 Welcome to the Sustainable Town Planning Simulator! This application, developed with Three.js, Vite, and React, aims to simulate town planning scenarios with a strong emphasis on achieving sustainability goals. The objective is to create a 3D cityscape where users can dynamically build buildings, industries, roads, and houses, considering environmental impact and sustainability.
 
+## Demo : https://drive.google.com/file/d/1RX8Uq3GK3Deet5lHiYh0yvwQnIsqTF5X/view?usp=sharing
+
 ## Getting Started 🚀
 
 To run the simulator, follow these steps:
@@ -15,11 +17,11 @@ To run the simulator, follow these steps:
    ```
 ## Simulator Features 🌱
 
-- **3D City Rendering:** Utilizing Three.js for a visually immersive and sustainable experience.
-- **Population Dynamics:** Witness dynamic changes in the city as the population grows sustainably.
-- **Sustainable Asset Library:** Access a library of eco-friendly assets, categorized by their impact on Air Quality Index (AQI) factors.
-- **Smart Simulation Loop:** Dynamically build and modify the city based on sustainable practices, considering different building categories and their contribution to AQI.
-- **Environmental Impact:** Visualize and manage the environmental impact, minimizing pollution, and promoting green spaces.
+- 3D City Rendering: Utilizing Three.js for a visually immersive and sustainable experience.
+- Population Dynamics: Witness dynamic changes in the city as the population grows sustainably.
+- Sustainable Asset Library: Access a library of eco-friendly assets, categorized by their impact on Air Quality Index (AQI) factors.
+- Smart Simulation Loop: Dynamically build and modify the city based on sustainable practices, considering different building categories and their contribution to AQI.
+- Environmental Impact: Visualize and manage the environmental impact, minimizing pollution, and promoting green spaces.
 
 ## Sustainable Town Planning Strategies 🏡
 
@@ -38,10 +40,6 @@ Future enhancements include:
 - Suggestions for sustainable measures based on population changes and building categories.
 - Real-time alerts for officials through ML-driven models focused on sustainability and AQI.
 - Comprehensive planning strategies aligned with global sustainability goals.
-
-## Contribution to Sustainable Urban Planning 🤝
-
-Feel free to contribute to the project and be a part of shaping a sustainable future for town planning! 🌐
 
 ## License 📝
 
