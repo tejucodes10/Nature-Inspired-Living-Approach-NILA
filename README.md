@@ -11,6 +11,7 @@ The project redefines sustainability for everyone, ensuring our user interfaces 
 ### 📹  Demo Video - 
 
 ## Our solution Modules 
+### You can find each module as folders in this repository. To know in detail about each of the modules, please refer to the ReadMe present inside each of the module folders. You can find screenshots and videos of the working prototypes as well in each of the module folder README(s). 
 
 1. ⛅AQI Forecasting and Preemptive Warning: 
 Our Time Series Forecasting module, employing LSTM technology, forecasts heatwaves and AQI in specified locations. With meticulous data preprocessing, seasonal decomposition, and rigorous training for 500 epochs, we achieved an impressive 97% accuracy. 
