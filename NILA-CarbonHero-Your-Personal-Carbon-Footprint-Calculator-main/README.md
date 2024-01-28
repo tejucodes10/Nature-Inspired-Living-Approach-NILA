@@ -5,7 +5,7 @@
 
 NILA CarbonHero is a module designed to assess and visualize individual carbon footprints, focusing on daily commute, electricity usage, waste generation, and meals.
 
-### 📹  Demo Video
+### 📹  Demo Video - https://drive.google.com/file/d/1bHTRc_qtLnWlZ7zXhgO3fUOWys8zX7WQ/view?usp=sharing
 
 ## Carbon Foot Print Calculator
 
@@ -41,9 +41,9 @@ View calculated carbon emissions categorized by transportation, electricity, die
 
 ### 📸 App Screenshots
 
-![WhatsApp Image 2024-01-28 at 14 47 59_11f6923d](https://github.com/tejucodes10/Team-FinSAT-Pragyan-24-Hackathon-PS-3/assets/119094222/87a25bf5-a2b8-4b44-b25b-d641839f68d4)
-![WhatsApp Image 2024-01-28 at 14 48 00_b9eb624b](https://github.com/tejucodes10/Team-FinSAT-Pragyan-24-Hackathon-PS-3/assets/119094222/d659b578-8cc0-43c3-801c-b802ec9b7611)
+https://drive.google.com/file/d/1ofgb17LBd1p10DElT47cjjYQpn2M8Exz/view?usp=sharing
 
+https://drive.google.com/file/d/1qU_KGEyXPkJYUF4nEq1FwMX4-hyrgZwN/view?usp=sharing
 
 # Running Streamlit App
 
