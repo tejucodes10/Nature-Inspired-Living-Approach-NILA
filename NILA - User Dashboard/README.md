@@ -5,10 +5,6 @@ As part of our product NILA, focusing on enhanced public awareness and engagemen
 ## 📹 Demo - https://drive.google.com/file/d/1gXgfOz9VN2KF3xOLhM4bD282lwKwevFO/view?usp=sharing
 
 
-
-https://github.com/tejucodes10/Team-FinSAT-Pragyan-24-Hackathon-PS-3/assets/119094222/f8a696a8-c279-4418-a430-82e7aad96b95
-
-
 ## Features 🌟
 1. We performed data loading, cleaning and preprocessing on the air quality dataset we received. 
 
