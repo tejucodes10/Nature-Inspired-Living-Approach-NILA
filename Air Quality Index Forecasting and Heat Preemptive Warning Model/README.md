@@ -5,8 +5,6 @@ With meticulous data preprocessing, seasonal decomposition, and rigorous trainin
 
 ## 📹 Demo - 
 
-![image](https://github.com/tejucodes10/Team-FinSAT-Pragyan-24-Hackathon-PS-3/assets/119094222/d4f61e4d-02bc-4a0e-8764-400ba8d21e8b)
-
 
 ## Objectives 🌟
 Time series forecasting for heatwaves in specified locations. \
