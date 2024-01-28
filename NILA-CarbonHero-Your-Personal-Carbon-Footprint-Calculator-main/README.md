@@ -41,8 +41,9 @@ View calculated carbon emissions categorized by transportation, electricity, die
 
 ### 📸 App Screenshots
 
-![WhatsApp Image 2024-01-28 at 14 48 04_acf0bd52](https://github.com/adithya-vedhamani/NILA-CarbonHero-Your-Personal-Carbon-Footprint-Calculator/assets/73640313/17e9beb8-a3b6-4962-9cd2-d3ddfad4c7b3)
-![WhatsApp Image 2024-01-28 at 14 48 04_5c092486](https://github.com/adithya-vedhamani/NILA-CarbonHero-Your-Personal-Carbon-Footprint-Calculator/assets/73640313/b6155674-582d-48d4-b2b4-d8f65c6a1fca)
+![WhatsApp Image 2024-01-28 at 14 47 59_11f6923d](https://github.com/tejucodes10/Team-FinSAT-Pragyan-24-Hackathon-PS-3/assets/119094222/87a25bf5-a2b8-4b44-b25b-d641839f68d4)
+![WhatsApp Image 2024-01-28 at 14 48 00_b9eb624b](https://github.com/tejucodes10/Team-FinSAT-Pragyan-24-Hackathon-PS-3/assets/119094222/d659b578-8cc0-43c3-801c-b802ec9b7611)
+
 
 # Running Streamlit App
 
